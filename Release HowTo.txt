@@ -1,0 +1,11 @@
+
+Release static:
+Use the static build from http://www.npcglib.org/~stathis/blog/precompiled-qt4-qt5/
+
+Release standalone Qt exe:
+
+1. Compress all needed Qt Runtime dlls.
+2. Use BoxedApp Packer
+	and bind dlls to the exe.
+3. Done
+
